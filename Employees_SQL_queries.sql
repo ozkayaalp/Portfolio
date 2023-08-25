@@ -67,3 +67,5 @@ GROUP BY d.dept_no , e.gender , calendar_year
 HAVING calendar_year <= 2002
 ORDER BY d.dept_no;
 
+
+FOUND: Females consistently receive lower salaries compared to males, while male employment rates consistently surpass those of females.
