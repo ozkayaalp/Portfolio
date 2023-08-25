@@ -1,5 +1,11 @@
 
-In this project, I delve into a comprehensive analysis of the workforce composition and salary distribution within a company over the span of twelve years, from 1990 to 2002. My primary focus is to address critical questions regarding gender diversity, managerial distribution, and salary disparities across departments and years. To conduct this analysis, I use employees_mod data sets that include employee records spanning from 1990 to 2002. These records encompass employee gender, department, year of employment, managerial roles, and salary information. This project culminates in a comprehensive report that presents a holistic view of gender diversity, managerial distribution, and salary disparities within the company. The report provides actionable insights, enabling the company's decision-makers to develop targeted strategies for improving gender balance, promoting diversity in leadership roles, and addressing potential gender-based salary inequalities.
+In this project, I delve into a comprehensive analysis of the workforce composition and salary distribution within a company over the span of twelve years,
+from 1990 to 2002. My primary focus is to address critical questions regarding gender diversity, managerial distribution, and salary disparities across 
+departments and years. To conduct this analysis, I use employees_mod data sets that include employee records spanning from 1990 to 2002. These records encompass
+employee gender, department, year of employment, managerial roles, and salary information. This project culminates in a comprehensive report that presents a
+holistic view of gender diversity, managerial distribution, and salary disparities within the company. The report provides actionable insights, enabling the
+company's decision-makers to develop targeted strategies for improving gender balance, promoting diversity in leadership roles, and addressing potential 
+gender-based salary inequalities.
 
 
 
